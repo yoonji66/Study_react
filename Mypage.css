@@ -1,0 +1,349 @@
+body{
+    /*  font-family: 'Pretnedard-regular';*/
+      margin : 0px;
+  }
+  
+  /* Ellipse 5 */
+
+.profile{position: absolute;
+width: 160px;
+height: 160px;
+border-radius:80px;
+left: 300px;
+top: 244px;
+
+background: #D9D9D9;
+border: 1px solid #000000;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+
+/* 닉네임 */
+.nick_q{
+position: absolute;
+width: 38.25px;
+height: 13.92px;
+left: 513.44px;
+top: 220.38px;
+
+background: #7D7D7D;
+}
+
+/* 닉네임님 프로필 */
+
+.nick_profile{position: absolute;
+width: 200.19px;
+height: 20.88px;
+left: 438.16px;
+top : -100px;
+font-size: 30px;
+
+}
+
+/* Rectangle 7 (Stroke) */
+.done{
+position: absolute;
+width: 630px;
+height: 79px;
+left: 197px;
+top: 764px;
+
+background: #C5C5C5;
+}
+
+/* Vector */
+
+.arrow1{position: absolute;
+left: 75.39%;
+right: 22.38%;
+top: 66.86%;
+bottom: 31.93%;
+
+background: #C5C5C5;
+}
+
+/* 활동이 끝난 스터디 */
+.done_word{
+position: absolute;
+width: 174.52px;
+height: 21.07px;
+left: 237.75px;
+top: 792.88px;
+
+background: #000000;
+}
+
+/* Rectangle 7 (Stroke) */
+
+.cart{position: absolute;
+width: 630px;
+height: 79px;
+left: 197px;
+top: 859px;
+
+background: #C5C5C5;
+}
+
+/* Vector */
+
+.arrow2{position: absolute;
+left: 75.39%;
+right: 22.38%;
+top: 74.83%;
+bottom: 23.96%;
+
+background: #C5C5C5;
+}
+
+/* 찜한 스터디 */
+.cart_word{
+position: absolute;
+width: 106.31px;
+height: 20.88px;
+left: 237.7px;
+top: 888.06px;
+
+background: #000000;
+}
+
+/* Rectangle 7 (Stroke) */
+
+.ing{position: absolute;
+width: 630px;
+height: 261px;
+left: 197px;
+top: 487px;
+
+background: #C5C5C5;
+}
+
+/* Ellipse 1 */
+.profile1{
+position: absolute;
+width: 50px;
+height: 50px;
+left: 227px;
+top: 591px;
+
+background: #D9D9D9;
+}
+
+/* 스터디 이름 */
+.name_word1{
+position: absolute;
+width: 108.05px;
+height: 20.88px;
+left: 302.98px;
+top: 605.06px;
+
+background: #000000;
+}
+
+/* #분야 */
+.tag1{
+position: absolute;
+width: 41.45px;
+height: 15.63px;
+left: 753.16px;
+top: 604.8px;
+
+background: #7D7D7D;
+}
+
+/* Ellipse 1 */
+
+.profile2{position: absolute;
+width: 50px;
+height: 50px;
+left: 227px;
+top: 666px;
+
+background: #D9D9D9;
+}
+
+/* 스터디 이름 */
+.name_word2{
+position: absolute;
+width: 108.05px;
+height: 20.88px;
+left: 302.98px;
+top: 680.06px;
+
+background: #000000;
+}
+
+/* #분야 */
+.tag2{
+position: absolute;
+width: 41.45px;
+height: 15.63px;
+left: 753.16px;
+top: 679.8px;
+
+background: #7D7D7D;
+}
+
+/* 활동중인 스터디 */
+.ing_word{
+position: absolute;
+width: 147.75px;
+height: 21.07px;
+left: 239.75px;
+top: 515.88px;
+
+background: #000000;
+}
+
+/* Vector */
+.arrow3{
+position: absolute;
+left: 77.62%;
+right: 20.15%;
+top: 44.88%;
+bottom: 53.95%;
+
+background: #FF5037;
+transform: rotate(-180deg);
+}
+
+/* 이메일@naver.com */
+.email{
+position: absolute;
+width: 127.14px;
+height: 14.25px;
+left: 608.08px;
+top: 255.38px;
+
+background: #000000;
+}
+
+/* 별명 */
+.nickname{
+position: absolute;
+width: 24.69px;
+height: 13.86px;
+left: 608.27px;
+top: 220.38px;
+
+background: #000000;
+}
+
+/* 2000.01.01 */
+.date{
+position: absolute;
+width: 74.31px;
+height: 11.62px;
+left: 608.05px;
+top: 291.53px;
+
+background: #000000;
+}
+
+/* 여 */
+.gender{
+position: absolute;
+width: 11.27px;
+height: 13.92px;
+left: 607.81px;
+top: 325.38px;
+
+background: #000000;
+}
+
+/* 경기도 수원시 */
+.area{
+position: absolute;
+width: 84.42px;
+height: 13.92px;
+left: 607.75px;
+top: 360.38px;
+
+background: #000000;
+}
+
+/* 면접 */
+.interest_q{
+position: absolute;
+width: 24.67px;
+height: 13.7px;
+left: 608.22px;
+top: 395.38px;
+
+background: #000000;
+}
+
+/* 이메일 */
+.email_q{
+position: absolute;
+width: 39.11px;
+height: 13.92px;
+left: 513.08px;
+top: 255.38px;
+
+background: #7D7D7D;
+}
+
+/* 생년월일 */
+.date_q{
+position: absolute;
+width: 53.44px;
+height: 13.86px;
+left: 512.58px;
+top: 290.38px;
+
+background: #7D7D7D;
+}
+
+/* 성별 */
+.gender_q{
+position: absolute;
+width: 25.88px;
+height: 13.86px;
+left: 512.55px;
+top: 325.38px;
+
+background: #7D7D7D;
+}
+
+/* 지역 */
+.area_q{
+position: absolute;
+width: 25.34px;
+height: 13.89px;
+left: 512.56px;
+top: 360.38px;
+
+background: #7D7D7D;
+}
+
+/* 관심사 */
+.interest{
+position: absolute;
+width: 40.81px;
+height: 13.89px;
+left: 512.48px;
+top: 395.38px;
+
+background: #7D7D7D;
+}
+
+/* Rectangle 6 (Stroke) */
+.create{
+position: absolute;
+width: 214px;
+height: 60px;
+left: 614px;
+top: 989px;
+
+background: #FF5037;
+}
+
+/* 스터디 만들기 */
+.create_word{
+position: absolute;
+width: 126.96px;
+height: 20.88px;
+left: 656.61px;
+top: 1010.46px;
+
+background: #FF5037;
+}
